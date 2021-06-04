@@ -17,7 +17,6 @@ public class TEST {
         System.out.println("c==d:"+(c==d));
         System.out.println("a.equals(c):"+(a.equals(c)));
         System.out.println("c.equals(d):"+(c.equals(d)));
-        System.out.println("c.equals(d):"+(c.equals(d)));
     }
 
 }
